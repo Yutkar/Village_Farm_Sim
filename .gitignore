@@ -25,3 +25,20 @@ Thumbs.db
 
 # Logs
 *.log
+# Large downloaded marketplace/Fab asset packs - do not commit for now
+Content/Fab/
+Content/AsianStreetFood_Assets/
+Content/Fennebuth_material_pack_1/
+Content/FreeFurniturePack/
+Content/GV_FreeShrubsPack/
+Content/HighPoly_Tree_Model/
+Content/LPGenericPropsSet24/
+Content/Megaplant_Library/
+Content/Modular_Rural_Cabin/
+Content/OldWest/
+Content/RuralHouse/
+Content/ShovelModel/
+
+# Preview images from downloaded packs
+AsianStreetFood_Pack.png
+OldWest_VOL5.png
